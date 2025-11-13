@@ -1,7 +1,6 @@
 # 📚 AI-Powered Book Recommendation System using Snowflake Cortex AI
 
 ### 👨‍💻 Author: [Ajay Kumar](https://github.com/Ajayacme339)
-### 🏗️ Role: Senior Data Engineer
 ### 🧠 Tech Stack: **Snowflake Cortex AI | SQL | Snowflake Marketplace |Cortex Search |Cortex Analyst | AI Agents |Snowflake Intelligence**
 
 ---
